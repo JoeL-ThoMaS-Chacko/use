@@ -45,9 +45,19 @@ just copy and run it on a browser
 
 ### Project Demo
 # Video
-[Add your demo video link here]
-*Explain what the video demonstrates*
+https://drive.google.com/drive/folders/1obUdKK85iCdRx7x0xWmEj2umS3k3BHBd?usp=drive_link
+What the Paw Voices Website Does:
+Takes User Input:
+Users enter their pet’s name and species (e.g., dog, cat) and can optionally upload a photo of their pet.
 
+Generates Funny Complaints:
+The site uses a library of 100+ prewritten humorous complaint templates that insert the pet's name and species dynamically.
+
+Displays in Letter Format:
+Each complaint appears in a styled “handwritten note” box, making it look like a real letter from the pet.
+
+Randomized & Replayable:
+Users can click “Generate Another Complaint” to keep seeing new, randomized pet complaints.
 
 ## Team Contributions
 - Amal Babu:CSS 
